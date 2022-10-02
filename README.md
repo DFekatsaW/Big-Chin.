@@ -33,7 +33,7 @@ client = commands.Bot()
 token = "123X456"
 kalive("discord.Client").checkalive(client, token)
 ```
-### Thus, if you maintain the state of your Discord bot using the Flash module (keep alive), then this kalive function will handle exceptions and errors in your token or bot startup.
+#### Thus, if you maintain the state of your Discord bot using the Flash module (keep alive), then this kalive function will handle exceptions and errors in your token or bot startup.
 Using 1.0
 -----------
 ### In the code below, you can make a small game that depends on luck. With this function, you can specify the chances of "winning" and return *True*, or lose.
