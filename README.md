@@ -21,6 +21,7 @@ ____
 Update 1.2.6 - Adding the kalive class
 
 Using
+===========
 Using 1.2.6
 -----------
 ### This class of functions adds the ability to support your variables/applications in some partial elements
@@ -33,7 +34,6 @@ token = "123X456"
 kalive("discord.Client").checkalive(client, token)
 ```
 Thus, if you maintain the state of your Discord bot using the Flash module (keep alive), then this kalive function will handle exceptions and errors in your token or bot startup.
-===========
 Using 1.0
 -----------
 ### In the code below, you can make a small game that depends on luck. With this function, you can specify the chances of "winning" and return *True*, or lose.
