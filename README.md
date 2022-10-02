@@ -19,7 +19,11 @@ ____
 Update 1.2.2 - Officially prepared module
 ____
 Update 1.2.6 - Adding the kalive class
-
+____
+Update 1.2.8 - Adding exceptions to the kalive class
+____
+Update 1.2.9 - Adding exceptions to the kalive class
+____
 Using
 ===========
 Using 1.2.6
