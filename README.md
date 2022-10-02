@@ -17,8 +17,22 @@ ____
 Update 1.2 - Bug fixes
 ____
 Update 1.2.2 - Officially prepared module
+____
+Update 1.2.6 - Adding the kalive class
 
 Using
+Using 1.2.6
+-----------
+### This class of functions adds the ability to support your variables/applications in some partial elements
+Supported list:
+* Discord Bot alive
+```python
+import discord
+client = commands.Bot()
+token = "123X456"
+kalive("discord.Client").checkalive(client, token)
+```
+Thus, if you maintain the state of your Discord bot using the Flash module (keep alive), then this kalive function will handle exceptions and errors in your token or bot startup.
 ===========
 Using 1.0
 -----------
