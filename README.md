@@ -5,11 +5,17 @@ Description
 Innovations
 ===========
 Update 1.0 - Adding the Perform, system class
+____
 Update 1.1 - Bug fixes
+____
 Update 1.1.5 - Bug fixes
+____
 Update 1.1.7 - Bug fixes
+____
 Update 1.1.9 - Bug fixes
+____
 Update 1.2 - Bug fixes
+____
 Update 1.2.2 - Officially prepared module
 
 Using
