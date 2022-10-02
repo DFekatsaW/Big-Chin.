@@ -2,6 +2,16 @@ Description
 ===========
 **This small library contains some useful functions that you would need in the implementation of projects. Every time the library is updated, and many other useful functions are added to it**
 
+Innovations
+===========
+Update 1.0 - Adding the Perform, system class
+Update 1.1 - Bug fixes
+Update 1.1.5 - Bug fixes
+Update 1.1.7 - Bug fixes
+Update 1.1.9 - Bug fixes
+Update 1.2 - Bug fixes
+Update 1.2.2 - Officially prepared module
+
 Using
 ===========
 Using 1.0
